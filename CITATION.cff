@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these benchmark datasets, please cite both the associated article and this repository."
+title: "Hyperspherical path-tracking benchmark datasets"
+type: dataset
+authors:
+  - family-names: "Oliveros-Muñoz"
+    given-names: "Juan Manuel"
+    email: "juan.oliveros@ibero-torreon.edu.mx"
+year: 2026
+repository-code: "https://github.com/jmoliverosm-bit/hyperspherical-path-tracking-benchmark"
+url: "https://github.com/jmoliverosm-bit/hyperspherical-path-tracking-benchmark"
+license: "CC-BY-4.0"
+abstract: "Benchmark datasets for multiple steady solutions of nonlinear ordinary and partial differential equations obtained by finite-difference discretization and hyperspherical path-tracking of homotopy curves."
+keywords:
+  - homotopy continuation
+  - hyperspherical path-tracking
+  - nonlinear algebraic systems
+  - finite differences
+  - multiple steady states
+  - natural convection
+  - benchmark dataset
+references:
+  - type: article
+    authors:
+      - family-names: "Jiménez-Islas"
+        given-names: "Hugo"
+      - family-names: "Calderón-Ramírez"
+        given-names: "Mario"
+      - family-names: "Martínez-González"
+        given-names: "Gloria María"
+      - family-names: "Calderón-Álvarado"
+        given-names: "Martha Patricia"
+      - family-names: "Oliveros-Muñoz"
+        given-names: "Juan Manuel"
+    title: "Multiple solutions for steady differential equations via hyperspherical path-tracking of homotopy curves"
+    journal: "Computers and Mathematics with Applications"
+    year: 2019
+    doi: "10.1016/j.camwa.2019.10.023"
